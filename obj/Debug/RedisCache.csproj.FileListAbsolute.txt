@@ -1,0 +1,9 @@
+c:\users\can\documents\visual studio 2015\Projects\RedisCache\RedisCache\bin\Debug\RedisCache.dll
+c:\users\can\documents\visual studio 2015\Projects\RedisCache\RedisCache\bin\Debug\RedisCache.pdb
+c:\users\can\documents\visual studio 2015\Projects\RedisCache\RedisCache\bin\Debug\Newtonsoft.Json.dll
+c:\users\can\documents\visual studio 2015\Projects\RedisCache\RedisCache\bin\Debug\StackExchange.Redis.StrongName.dll
+c:\users\can\documents\visual studio 2015\Projects\RedisCache\RedisCache\bin\Debug\Newtonsoft.Json.xml
+c:\users\can\documents\visual studio 2015\Projects\RedisCache\RedisCache\bin\Debug\StackExchange.Redis.StrongName.xml
+c:\users\can\documents\visual studio 2015\Projects\RedisCache\RedisCache\obj\Debug\RedisCache.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\RedisCache\RedisCache\obj\Debug\RedisCache.dll
+c:\users\can\documents\visual studio 2015\Projects\RedisCache\RedisCache\obj\Debug\RedisCache.pdb
